@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SaveAsTxt</string>
+    <string name="how_to_use">
+        Как использовать:\n
+        1. Поделитесь текстом из другого приложения\n
+        2. Выберите "SaveAsTxt"\n
+        3. Выберите файл назначения\n
+        Вы можете поделиться этим текстом руководства для тестирования.\n
+    </string>
+    <string name="share_this_guide_text">поделиться этим текстом</string>
+    <string name="license">Лицензия</string>
+</resources>
